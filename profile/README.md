@@ -13,12 +13,11 @@
     <p style="text-align: left; text-justify: auto">
         Correlatio is a branch of E-constellatio company. Correlatio offer large amount of statistical computation using AI based on open data of French government and other open statistics foundation.
     </p>
-    <hr />
     <h2>
         Highlighting products
     </h2>
-    <hr />
     <img src="./resources/Crimen.svg" alt="Crimen" height="50"/>
     <h3>Crimen</h3>
-    <p style="text-align: left; text-justify: auto">Crimen is a website in which you put your address and it will calculate the probability that your house id bulgarized.</p>
+    <p style="text-align: left; text-justify: auto">Crimen is a website in which you put your address and it will compute the probability that your house is bulgarized.</p>
 </div>
+
